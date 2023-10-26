@@ -1,0 +1,6 @@
+[submodule "node-fasttext"]
+	path = node-fasttext
+	url = https://github.com/vunb/node-fasttext.git
+[submodule "fib-addon"]
+	path = fib-addon
+	url = https://github.com/xicilion/fib-addon.git
