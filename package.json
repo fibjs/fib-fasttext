@@ -21,7 +21,7 @@
     "module_name": "fib-fasttext",
     "module_path": "./addon",
     "package_name": "{module_name}-{platform}-{arch}-release.tar.gz",
-    "host": "https://github.com/fibjs/fib-fasttext/releases/download/",
+    "host": "https://github.com/fibjs/fib-fasttext/releases/download/"
   },
   "dependencies": {
     "node-pre-gyp": "^0.13.0"
