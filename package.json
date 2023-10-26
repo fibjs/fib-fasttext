@@ -1,6 +1,6 @@
 {
   "name": "fib-fasttext",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "fibjs binding for fasttext representation and classification.",
   "main": "index.js",
   "scripts": {
@@ -25,6 +25,6 @@
     "host": "https://github.com/fibjs/fib-fasttext/releases/download/"
   },
   "dependencies": {
-    "node-pre-gyp": "^0.13.0"
+    "@mapbox/node-pre-gyp": "^1.0.11"
   }
 }
