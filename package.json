@@ -1,6 +1,6 @@
 {
   "name": "fib-fasttext",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "fibjs binding for fasttext representation and classification.",
   "main": "index.js",
   "scripts": {
@@ -20,6 +20,7 @@
   "binary": {
     "module_name": "fib-fasttext",
     "module_path": "./addon",
+    "remote_path": "{version}",
     "package_name": "{module_name}-{platform}-{arch}-release.tar.gz",
     "host": "https://github.com/fibjs/fib-fasttext/releases/download/"
   },
