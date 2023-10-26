@@ -6,6 +6,6 @@ out
 fib-addon
 tools
 build*
-CMakeList.txt
+CMakeLists.txt
 
 node-fasttext
