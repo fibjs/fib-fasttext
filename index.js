@@ -1,0 +1,1 @@
+module.exports = require('./addon/fib-fasttext.node');

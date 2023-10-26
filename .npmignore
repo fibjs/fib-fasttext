@@ -1,0 +1,11 @@
+.github
+.vscode
+.git*
+bin
+out
+fib-addon
+tools
+build*
+CMakeList.txt
+
+node-fasttext
