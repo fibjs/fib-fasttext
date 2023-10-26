@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vunb/fib-fasttext.git"
+    "url": "git+https://github.com/fibjs/fib-fasttext.git"
   },
   "keywords": [
     "fasttext",
@@ -16,12 +16,12 @@
   ],
   "author": "lion",
   "license": "MIT",
-  "homepage": "https://github.com/vunb/fib-fasttext",
+  "homepage": "https://github.com/fibjs/fib-fasttext",
   "binary": {
     "module_name": "fib-fasttext",
     "module_path": "./addon",
     "package_name": "{module_name}-{platform}-{arch}-release.tar.gz",
-    "host": "https://github.com/vunb/fib-fasttext/releases/download/",
+    "host": "https://github.com/fibjs/fib-fasttext/releases/download/",
   },
   "dependencies": {
     "node-pre-gyp": "^0.13.0"

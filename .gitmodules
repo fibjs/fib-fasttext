@@ -3,4 +3,4 @@
 	url = https://github.com/vunb/node-fasttext.git
 [submodule "fib-addon"]
 	path = fib-addon
-	url = https://github.com/xicilion/fib-addon.git
+	url = https://github.com/fibjs/fib-addon.git
