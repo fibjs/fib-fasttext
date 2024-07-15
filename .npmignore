@@ -3,6 +3,7 @@
 .git*
 bin
 out
+addon
 fib-addon
 tools
 build*
