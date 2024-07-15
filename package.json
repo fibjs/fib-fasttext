@@ -1,6 +1,6 @@
 {
   "name": "fib-fasttext",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "fibjs binding for fasttext representation and classification.",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fibjs/fib-fasttext.git"
+    "url": "git+https://github.com/querycatai/fib-fasttext.git"
   },
   "keywords": [
     "fasttext",
@@ -16,13 +16,13 @@
   ],
   "author": "lion",
   "license": "MIT",
-  "homepage": "https://github.com/fibjs/fib-fasttext",
+  "homepage": "https://github.com/querycatai/fib-fasttext",
   "binary": {
     "module_name": "fib-fasttext",
     "module_path": "./addon",
     "remote_path": "{version}",
     "package_name": "{module_name}-{platform}-{arch}-release.tar.gz",
-    "host": "https://github.com/fibjs/fib-fasttext/releases/download/"
+    "host": "https://github.com/querycatai/fib-fasttext/releases/download/"
   },
   "dependencies": {
     "@mapbox/node-pre-gyp": "^1.0.11"
