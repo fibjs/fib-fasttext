@@ -3,11 +3,15 @@
 .git*
 bin
 out
+include
+src
 temp
+test
 addon
 fib-addon
 tools
 build*
+vendor
 CMakeLists.txt
 
 node-fasttext
