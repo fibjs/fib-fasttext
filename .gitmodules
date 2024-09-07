@@ -1,6 +1,9 @@
-[submodule "node-fasttext"]
-	path = node-fasttext
-	url = https://github.com/vunb/node-fasttext.git
 [submodule "fib-addon"]
-	path = fib-addon
-	url = https://github.com/fibjs/fib-addon.git
+path = fib-addon
+url = https://github.com/fibjs/fib-addon.git
+[submodule "vendor/json"]
+path = vendor/json
+url = https://github.com/nlohmann/json
+[submodule "vendor/fastText"]
+path = vendor/fastText
+url = https://github.com/facebookresearch/fastText

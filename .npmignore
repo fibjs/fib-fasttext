@@ -3,6 +3,7 @@
 .git*
 bin
 out
+temp
 addon
 fib-addon
 tools
